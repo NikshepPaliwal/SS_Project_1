@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761209858857",
+    "project_id": "ss-project-940fa",
+    "storage_bucket": "ss-project-940fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761209858857:android:1d033e4009851a19e52538",
+        "android_client_info": {
+          "package_name": "com.nikshep_nielit.ss_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICnMAm0BribsuMJhzITJIKUah-PneV7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
